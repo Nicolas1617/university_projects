@@ -10,3 +10,13 @@ My significant projects overview.
   - Visualizzation of ROIs histograms
   - Feature extractacion from radiomics data
   - Saving and manual comparison of extracted features
+
+## [VSR Projct Work](https://github.com/Nicolas1617/university_projects/tree/main/VSR%20project%20work)
+**VSR** stands for Visione per Sistemi Robotici, a university course focused on 
+- **Tech stacks:** Python, Matplotlib, Keras
+- **Key points:**
+  - Download dataset
+  - Data preparation
+  - Architecture definition
+  - Training
+  - Performance evaluation
