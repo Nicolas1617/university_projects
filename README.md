@@ -27,4 +27,4 @@ My significant projects overview.
   * Architecture definition
   * Training
   * Performance evaluation
-  * Cells identification
+  * Cell counting and identification
