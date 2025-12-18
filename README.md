@@ -19,7 +19,7 @@ My significant projects overview.
 
 **VSR** stands for Visione per Sistemi Robotici, a university course focused on
 
-* **Tech stacks:** Python, Matplotlib, Keras
+* **Tech stacks:** Python, Matplotlib, Keras, Pandas, Skimage
 * **Key points:**
 
   * Download dataset
