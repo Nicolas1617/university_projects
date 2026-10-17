@@ -17,7 +17,7 @@ My significant projects overview.
 
 ## [VSR Project Work](https://github.com/Nicolas1617/university_projects/tree/main/VSR%20project%20work)
 
-**VSR** stands for Visione per Sistemi Robotici, a university course focused on
+**VSR** stands for Visione per Sistemi Robotici, a university course focused on advanced image processing, multi-sensor data fusion, and neural networks applied to robotics and biomedical systems.
 
 * **Tech stacks:** Python, Matplotlib, Keras, Pandas, Skimage
 * **Key points:**
