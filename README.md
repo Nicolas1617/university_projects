@@ -12,10 +12,10 @@ My significant projects overview.
   * Import of medical image and ROIs
   * Visualizzation of images and ROIs
   * Visualizzation of ROIs histograms
-  * Feature extractacion from radiomics data
+  * Feature extraction from radiomics data
   * Saving and manual comparison of extracted features
 
-## [VSR Projct Work](https://github.com/Nicolas1617/university_projects/tree/main/VSR%20project%20work)
+## [VSR Project Work](https://github.com/Nicolas1617/university_projects/tree/main/VSR%20project%20work)
 
 **VSR** stands for Visione per Sistemi Robotici, a university course focused on
 
