@@ -2,19 +2,6 @@
 
 My significant projects overview.
 
-## [ESIB Project Work](https://github.com/Nicolas1617/university_projects/tree/main/ESIB%20project%20work)
-
-**ESIB** stands for Elaborazione di Segnali e Immagini Biomediche (Biomedical Signal and Image Processing), a university course focused on biomedical data analysis and image processing techniques.
-
-* **Tech stacks:** Python, Scikit-learn, Matplotlib, Pyradiomics, MATLAB
-* **Key points:**
-
-  * Import of medical image and ROIs
-  * Visualizzation of images and ROIs
-  * Visualizzation of ROIs histograms
-  * Feature extraction from radiomics data
-  * Saving and manual comparison of extracted features
-
 ## [VSR Project Work](https://github.com/Nicolas1617/university_projects/tree/main/VSR%20project%20work)
 
 **VSR** stands for Visione per Sistemi Robotici, a university course focused on advanced image processing, multi-sensor data fusion, and neural networks applied to robotics and biomedical systems.
@@ -28,3 +15,16 @@ My significant projects overview.
   * Training
   * Performance evaluation
   * Cell counting and identification
+
+## [ESIB Project Work](https://github.com/Nicolas1617/university_projects/tree/main/ESIB%20project%20work)
+
+**ESIB** stands for Elaborazione di Segnali e Immagini Biomediche (Biomedical Signal and Image Processing), a university course focused on biomedical data analysis and image processing techniques.
+
+* **Tech stacks:** Python, Scikit-learn, Matplotlib, Pyradiomics, MATLAB
+* **Key points:**
+
+  * Import of medical image and ROIs
+  * Visualizzation of images and ROIs
+  * Visualizzation of ROIs histograms
+  * Feature extraction from radiomics data
+  * Saving and manual comparison of extracted features
